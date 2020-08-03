@@ -1,4 +1,4 @@
-# PWA: Online/Offline Budget Trackers
+# PWA: Online/Offline Budget Tracker
 
 ![Project license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
