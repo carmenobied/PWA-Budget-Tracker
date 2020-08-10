@@ -38,7 +38,7 @@ Deployed application in Heroku: [Budgett Tracker App](https://fast-shelf-30994.h
 ## Usage
 ```
 Technologies Used:
-PWA - MongoDB - Mongoose - Node.js - Express.js - JavaScript - Morgan - HTML - CSS - Bootstrap
+PWA - MongoDB - Mongoose - Node.js - Express.js - JavaScript - Morgan - IndexDB - Webmanifest - Service-Workers - HTML - CSS - Bootstrap 
 ```
 
 Offline Functionality:
