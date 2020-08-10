@@ -5,12 +5,12 @@
       {
         "src": "/assets/icons/icon-192x192.png",
         "sizes": "192x192",
-        "type": "image/png"
+        "type": "icons/png"
       },
       {
         "src": "/assets/icons/icon-512x512.png",
         "sizes": "512x512",
-        "type": "image/png"
+        "type": "icons/png"
       }
     ],
     "start_url": "/",
