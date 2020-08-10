@@ -4,6 +4,8 @@
 
 The goal was to add functionality to an existing Budget Tracker application to allow for offline access and functionality. This allows the user to be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, the user is able to populate the total when brought back online. Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Thus, having offline functionality is crucial to the application's success.
 
+Explore the app here: https://fast-shelf-30994.herokuapp.com/
+
 # Table of Contents
   * [User Story](#User-Story)
   * [Installation](#Installation)
@@ -27,11 +29,11 @@ i. Fork the Github repository.
 ii. Clone the forked repo into your local machine using gitbash/terminal to pull the project and data.
 iii. Run the command-lines to run the app functionality. You can also access the files and assets via Visual Studio to view the code. 
 iv. Explore the app.
-
+v. To use as native app, go to Chrome Tools and click to install Budget Tracker.
 ```
 
 ## Deployed App
-Deployed application in Heroku: [Budgett Tracker App](https://fast-shelf-30994.herokuapp.com/
+Deployed application in Heroku: [Budgett Tracker App](https://fast-shelf-30994.herokuapp.com/)
 
 ## Usage
 ```
