@@ -7,6 +7,7 @@ The goal was to add functionality to an existing Budget Tracker application to a
 # Table of Contents
   * [User Story](#User-Story)
   * [Installation](#Installation)
+  * [Deployed App](#Deployed-App)
   * [Usage](#Usage)
   * [Contributing](#Contributing)
   * [License](#License)
@@ -28,6 +29,9 @@ iii. Run the command-lines to run the app functionality. You can also access the
 iv. Explore the app.
 
 ```
+
+## Deployed App
+Deployed application in Heroku: [Budgett Tracker App](https://fast-shelf-30994.herokuapp.com/
 
 ## Usage
 ```
