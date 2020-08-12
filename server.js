@@ -23,6 +23,7 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/budget", {
 // routes
 app.use(require("./routes/api"));
 
+// updated for heroku deployment
 app.listen(process.env.PORT || 5000);
 
 // app.listen(PORT, () => {
